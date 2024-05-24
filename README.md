@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello, I'm a Year 2 Computer Science and Design Undergraduate at Singapore University of Design and Technology :)
 
 <!--
 **twolabbies/twolabbies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
